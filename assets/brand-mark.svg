@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Rabbitech BIOGLOW Score brand mark">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#171522"/><stop offset="1" stop-color="#242039"/></linearGradient><radialGradient id="glow"><stop stop-color="#F0B85B" stop-opacity=".22"/><stop offset="1" stop-color="#F0B85B" stop-opacity="0"/></radialGradient></defs>
+<rect width="512" height="512" rx="92" fill="url(#bg)"/><circle cx="256" cy="236" r="210" fill="url(#glow)"/>
+<rect x="18" y="18" width="476" height="476" rx="78" fill="none" stroke="#F0B85B" stroke-opacity=".32" stroke-width="3"/>
+<rect x='128' y='82' width='256' height='356' rx='28' fill='none' stroke='#F0B85B' stroke-width='18'/><path d='M180 145h152' stroke='#F0B85B' stroke-width='16' stroke-linecap='round'/><g fill='#F0B85B'><rect x='178' y='205' width='48' height='48' rx='10'/><rect x='274' y='205' width='48' height='48' rx='10'/><rect x='178' y='292' width='48' height='48' rx='10'/><rect x='274' y='292' width='48' height='48' rx='10'/><rect x='178' y='379' width='144' height='28' rx='10'/></g>
+<path d="M90 456h332" stroke="#F0B85B" stroke-opacity=".45" stroke-width="3"/>
+<text x="256" y="478" text-anchor="middle" fill="#E8E4F0" font-family="Arial,sans-serif" font-size="17" letter-spacing="3">FLL SCORING TOOL</text>
+</svg>
