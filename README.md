@@ -1,3 +1,13 @@
+<div align="center">
+
+<img src="./assets/brand-mark.svg" width="132" alt="Rabbitech BIOGLOW Score brand mark" />
+
+**FLL SCORING TOOL**
+
+</div>
+
+---
+
 # Rabbitech BIOGLOW Score
 
 **A lightweight web app for calculating and reviewing LEGO FIRST LEGO League match scores.**
