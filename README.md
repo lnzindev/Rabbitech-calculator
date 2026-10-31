@@ -8,11 +8,13 @@
 
 ---
 
-# Rabbitech BIOGLOW Score
+# Rabbitech BIOGLOW Future Edition Score
 
-**A lightweight web app for calculating and reviewing LEGO FIRST LEGO League match scores.**
+**An independent scoring calculator developed for the FIRST LEGO League Future Edition competition mat.**
 
-The calculator helps a team record mission values, calculate the score breakdown, and compare results across saved practice or official matches.
+I built this calculator as a competing participant to translate the new mat's missions and scoring rules into a practical digital scoring tool. To my knowledge, it was the **first calculator created by a competitor anywhere in the world specifically for the Future Edition mat**.
+
+This is an independent community project, not an official FIRST or LEGO product. Always verify mission values and scoring conditions against the official challenge materials for the current season.
 
 ## Features
 
@@ -61,4 +63,4 @@ The mission model includes mission names, scoring values, conditions, and penalt
 
 ## Project status
 
-A focused team utility intended for practice and match review. The scoring model should be checked and updated whenever the official challenge rules change.
+A season-specific scoring tool for the Future Edition mat. Keep its mission model aligned with the official challenge materials and document every rule update.
